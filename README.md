@@ -12,6 +12,9 @@ I'm a student at Georgia Institute of Technology, passionate about AI Agent, Dee
 - 🌍 I'm based in Atlanta
 - 🧑‍💻 I'm currently working on GPTLens project(AI Agent)
 
+![Snake Animation](https://github.com/OwenYWT/github-snake/blob/gh-pages/github-contribution-grid-snake.svg)
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/wentaoy/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](ywt000818@gmail.com)
 
