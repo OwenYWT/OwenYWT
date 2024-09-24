@@ -3,6 +3,12 @@
 I'm a student at Georgia Institute of Technology, passionate about AI Agent, Deep Learning and LLM.
 
 
+
+- 🌍 I'm based in Atlanta
+- 🧑‍💻 I'm currently working on GPTLens project(AI Agent)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/wentaoy/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](ywt000818@gmail.com)
 <!--
 **OwenYWT/OwenYWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
