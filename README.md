@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Owen 👋
+
+I'm a student at Georgia Institute of Technology, passionate about AI Agent, Deep Learning and LLM.
+
 
 <!--
 **OwenYWT/OwenYWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
