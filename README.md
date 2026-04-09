@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>我造 AI agent、开发者工具，还有一些奇怪但真的能用的东西</em><br/>
-  <strong>Based in Atlanta — always shipping something.</strong>
-</p>
 
 ---
 
