@@ -11,10 +11,6 @@
 
 ---
 
-```
-$ ls ~/projects/
-```
-
 ### 🤖 AI Employee Platform
 > AI employees deployed inside enterprise tools (Feishu/Slack) as real team members
 > 把 AI 员工部署到飞书/Slack 里，作为团队的一员工作
@@ -33,10 +29,6 @@ $ ls ~/projects/
 
 ---
 
-```
-$ cat status.txt
-```
-
 🔭 Currently making AI agents that feel less like chatbots and more like coworkers.
 目前在研究怎么让 AI agent 更像同事，而不是聊天机器人。
 
@@ -45,25 +37,15 @@ $ cat status.txt
 
 ---
 
-```
-$ cat stats.txt
-```
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=OwenYWT&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/OwenYWT/github-snake/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
-
-```
-$ cat contact.txt
-```
 
 📫 **[LinkedIn](https://www.linkedin.com/in/wentaoy/)** · **[Email](mailto:ywt000818@gmail.com)**
 
