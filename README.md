@@ -1,14 +1,13 @@
-```
-$ whoami
-```
+<p align="center">
+  <a href="https://github.com/OwenYWT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Owen+%F0%9F%91%8B;I+build+AI+agents+%26+weird-but-useful+tools" alt="Typing SVG" />
+  </a>
+</p>
 
-## Hey, I'm Owen 👋
-
-I build AI agents, useful tools, and weird-but-useful side projects.
-我造 AI agent、开发者工具，还有一些奇怪但真的能用的东西。
-
-Based in Atlanta — always shipping something.
-坐标 Atlanta，永远在折腾下一个项目。
+<p align="center">
+  <em>我造 AI agent、开发者工具，还有一些奇怪但真的能用的东西</em><br/>
+  <strong>Based in Atlanta — always shipping something.</strong>
+</p>
 
 ---
 
