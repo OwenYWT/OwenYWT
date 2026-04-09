@@ -1,38 +1,73 @@
-## Hi, I'm Owen 👋
+```
+$ whoami
+```
 
-I build AI agents, useful tools, and weird little side projects.  
-我喜欢做 AI agents、实用工具，还有一些奇奇怪怪但很好玩的 side projects。
+## Hey, I'm Owen 👋
 
-Currently based in Atlanta.  
-现在在 Atlanta 折腾代码，也一直在探索更自然的人机协作方式。
+I build AI agents, useful tools, and weird-but-useful side projects.
+我造 AI agent、开发者工具，还有一些奇怪但真的能用的东西。
 
-### Currently building / 最近在折腾
-
-- AI agent workflows that feel actually useful
-- Mobile companions for coding tools
-- LLM-powered developer tools
-- Small experiments that might turn into real products
-
-### Interested in / 我感兴趣的方向
-
-- AI agents
-- developer tools
-- mobile + AI
-- human-computer interaction
-- shipping fast and learning in public
-
-### Fun facts / 一些碎碎念
-
-- I like projects that are a little weird but genuinely useful.
-- I enjoy turning rough ideas into things people can actually use.
-- 我对“能不能把 AI 做得更自然、更可协作”这件事很上头。
-
-### Find me / 联系方式
-
-- LinkedIn: [wentaoy](https://www.linkedin.com/in/wentaoy/)
-- Email: [ywt000818@gmail.com](mailto:ywt000818@gmail.com)
+Based in Atlanta — always shipping something.
+坐标 Atlanta，永远在折腾下一个项目。
 
 ---
 
-If you're building something fun around AI agents, devtools, or mobile AI, feel free to reach out.  
-如果你也在做 AI agent、开发者工具或者有意思的 AI 产品，欢迎来找我交流。
+```
+$ ls ~/projects/
+```
+
+### 🤖 AI Employee Platform
+> AI employees deployed inside enterprise tools (Feishu/Slack) as real team members
+> 把 AI 员工部署到飞书/Slack 里，作为团队的一员工作
+
+### 🔧 CAD Agent
+> Generate CAD files from natural language — API-first, plugin-ready
+> 用自然语言生成 CAD 文件，API 驱动，支持 SolidWorks/AutoCAD/Fusion 360
+
+### 📱 [Claude Remote](https://github.com/OwenYWT/claude-remote)
+> Mobile companion for Claude Code — code from your phone
+> Claude Code 的移动端搭档，手机上也能写代码
+
+### 🏀 [NBA Predictor](https://github.com/OwenYWT/NBA-Player-Performance-Predictor)
+> ML-powered player performance prediction
+> 用机器学习预测 NBA 球员下一场表现
+
+---
+
+```
+$ cat status.txt
+```
+
+🔭 Currently making AI agents that feel less like chatbots and more like coworkers.
+目前在研究怎么让 AI agent 更像同事，而不是聊天机器人。
+
+🧪 Experimenting with: AI + CAD, AI + enterprise tools, human-AI collaboration
+在探索: AI + 工业设计, AI + 企业协作, 更自然的人机协同
+
+---
+
+```
+$ cat stats.txt
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OwenYWT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenYWT&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OwenYWT/github-snake/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+```
+$ cat contact.txt
+```
+
+📫 **[LinkedIn](https://www.linkedin.com/in/wentaoy/)** · **[Email](mailto:ywt000818@gmail.com)**
+
+如果你也在做 AI agent、开发者工具、或者有意思的 AI 产品 — 来聊聊。
+If you're building AI agents, devtools, or anything weird and useful — let's talk.
